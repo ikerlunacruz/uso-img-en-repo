@@ -1,2 +1,3 @@
 # uso-img-en-repo
-Ejemplo de como añadir una imagen en un README file
+
+<img src="img/Capturaa.PNG" alt="Capturaa">
